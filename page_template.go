@@ -21,6 +21,10 @@ ws.onclose = function() {
 }
 
 </script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 <style>
 body {
 	padding: 10px 20px;
